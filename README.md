@@ -15,8 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/aslamsayyad02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamsayyad02" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sayyadaslam2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyadaslam2020" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
