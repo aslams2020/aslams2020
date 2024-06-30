@@ -16,9 +16,9 @@
 <!-- <a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
 </p>
-<h3 align="left">GSSoC'24 Earned Badges</h3>
+<h3 align="left">My Earned Badges in GSSoC'24 </h3>
 
-![image](https://github.com/aslams2020/aslams2020/assets/131389695/a57de016-2068-4a09-a62f-5ae3bbd2174c)
+![image](https://github.com/aslams2020/aslams2020/assets/131389695/7ff5b1a1-3656-4848-bd0a-56f840c4880b)
 
 
 <h3 align="left">Languages and Tools:</h3>
