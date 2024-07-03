@@ -24,7 +24,8 @@
 <br>
 <h3 align="left">My Earned Badges in GSSoC'24 </h3>
 
-![image](https://github.com/aslams2020/aslams2020/assets/131389695/7ff5b1a1-3656-4848-bd0a-56f840c4880b)
+![5_Badges_500+_Points-removebg-preview](https://github.com/aslams2020/aslams2020/assets/131389695/8158ea09-8e68-4f48-a043-707c27a74944)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
