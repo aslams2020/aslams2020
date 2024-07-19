@@ -24,7 +24,7 @@
 <br>
 <h3 align="left">My Earned Badges in GSSoC'24 </h3>
 
-![5_Badges_500+_Points-removebg-preview](https://github.com/aslams2020/aslams2020/assets/131389695/8158ea09-8e68-4f48-a043-707c27a74944)
+![6 badges](https://github.com/user-attachments/assets/2d9f29ac-6641-4229-9893-f1b6e274482b)
 
 
 
