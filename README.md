@@ -1,27 +1,22 @@
 <h1 align="center">Hi 👋, I'm Aslam</h1>
 <h3 align="center">I am a passionate Java developer And Web developer</h3>
 
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300">
+<!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"> -->
 
 - I’m currently learning **Java, DSA and Frontend Development.**
-
 - 💬 Ask me about **Java and Data Structures.**
-
 - 📫 How to reach me **sayyadaslam2020@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aslamsayyad02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamsayyad02" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aslamsayyad02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamsayyad02" height="30" width="40" /></a> -->
 <!-- <a href="https://www.hackerrank.com/sayyadaslam2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyadaslam2020" height="30" width="40" /></a> -->
 <!-- <a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
-</p>
+<!-- </p>-->
+<p>
+<img  src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=tokyonight" alt="aslams2020" /> </p>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=tokyonight"/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=tokyonight" alt="aslams2020" /></p>
-
-<br>
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
