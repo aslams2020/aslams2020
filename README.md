@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aslam</h1>
 <h3 align="center">I am a passionate Java developer And Web developer</h3>
 
-![github_pic-removebg-preview](https://github.com/user-attachments/assets/f684a5eb-c0fd-4086-9403-01ebdb1333a0)
+<p align="right" style="height:40px; width:40px;" ![github_pic-removebg-preview](https://github.com/user-attachments/assets/f684a5eb-c0fd-4086-9403-01ebdb1333a0)
 
 
 - I’m currently learning **Java, DSA and Frontend Development.**
