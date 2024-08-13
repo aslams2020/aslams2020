@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Java developer And Web developer</h3>
 
 <!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"> -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="200">
 
 - I’m currently learning **Java, DSA and Frontend Development.**
 - 💬 Ask me about **Java and Data Structures.**
