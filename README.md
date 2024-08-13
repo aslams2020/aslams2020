@@ -16,7 +16,7 @@
 <a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
 <!-- </p>-->
 <p>
-<img  src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=tokyonight" alt="aslams2020" /> </p>
+<img  src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=tokyonight" width="400" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=tokyonight" alt="aslams2020" width="400" /> </p>
 
 
 ## GSSOC(24) Badges 🪶
