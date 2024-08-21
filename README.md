@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" height="50"  />
-<h3 align="center">I am a passionate Java developer And Web developer</h3>
+<h3 align="center">I am a passionate Java developer And Web developer </h3>
 
 <!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"> -->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
@@ -48,4 +48,4 @@
 
 <br>
 
-Thank You For the Visit
+**Thank You For the Visit!**
