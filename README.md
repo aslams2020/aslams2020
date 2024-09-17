@@ -38,10 +38,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=tokyonight" alt="Streak Stats"/>
+  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=radical" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
