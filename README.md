@@ -6,7 +6,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
  
 - I’m currently learning **Java, Data Structure and Algorithms and Frontend Development.** 
-- 💬 Ask me about **Java and Data Structures.** 
+- 💬 Ask me about **Java and Data Structures.**
 - 📫 How to reach me **sayyadaslam2020@gmail.com**
 <h3 align="left">Connect with me: </h3>
 <p align="left">
