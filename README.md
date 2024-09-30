@@ -9,7 +9,7 @@
 - I’m currently learning **Java, Data Structure and Algorithms and Frontend Development.** 
 - 💬 Ask me about **Java and Data Structures.**
 - 📫 How to reach me **sayyadaslam2020@gmail.com**
-- ⚡ **Would love to explore new things.**
+- ⚡ **Would love to explore new things.** 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://linkedin.com/in/aslamsayyad02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamsayyad02" height="30" width="40" /></a>
