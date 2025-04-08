@@ -41,16 +41,6 @@
 
 ---
 
-## 📬 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/aslamsayyad02" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 - 💻 Languages: Java, HTML, CSS, JavaScript, Python
 - ⚛️ Frontend: React.js, Flask
@@ -72,6 +62,14 @@
 -->
 
 ---
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aslamsayyad02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+</p>
+--- 
 
 ## 🏆 Badges & Achievements
 
