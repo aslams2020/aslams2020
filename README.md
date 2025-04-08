@@ -27,7 +27,7 @@
 - 📬 Reach me at: **sayyadaslam2020@gmail.com**
 
 <!-- - 👨‍💻 Currently sharpening my skills in **DSA**, **React.js**, and full-stack development. -->
-<br>
+
 
 ### ⚡Open Source Journey
 
@@ -53,9 +53,8 @@
 -  Raised **200+ issues** and merged **110+ pull requests**.
 -  Earned **7 contribution badges** across multiple projects.
 -->
----
 
-
+ <br> <br>
 
 ## 💻 Tech Stack
 - 💻 **Languages:** Java, HTML, CSS, JavaScript, Python
