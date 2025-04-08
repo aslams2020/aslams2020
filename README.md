@@ -78,7 +78,7 @@
 </tr>
 </table>
 
-
+<!--
 ## 📬 Connect with Me
 
 <p align="left">
@@ -86,10 +86,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
 </p>
-
---- 
-
-## 🏆 Badges & Achievements
+--> 
+<!--## 🏆 Badges & Achievements --> 
 <!--
 ### 🐙 Holopin Badges – Hacktoberfest '24
 [![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
@@ -109,8 +107,6 @@
   </a>
 </p>
 -->
-
----
 
 <p align="center">
   <strong>Enjoying my work or contributions? Feel free to show support 😊</strong>
