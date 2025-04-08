@@ -45,6 +45,30 @@
 
 ---
 
+<details>
+<summary> 🏆 Badges & Achievements</summary>
+
+#### Holopin Badges – Hacktoberfest 2024  
+[![Holopin](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
+
+<details>
+<summary>☀️ GSSOC(24) Badges</summary>  
+<div align="center">
+  <p align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
+  </a>
+</p>
+</div>
+  </details>
+</details>
+
 ## 💻 Tech Stack
 - 💻 **Languages:** Java, HTML, CSS, JavaScript, Python
 - ⚛️**Frontend:** React.js, Flask
@@ -87,26 +111,6 @@
   </a>
 </p>
 --> 
-<!--## 🏆 Badges & Achievements --> 
-<!--
-### 🐙 Holopin Badges – Hacktoberfest '24
-[![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
---> 
-
-<!--
-### ☀️ GSSoC '24 Badges
-<p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
-  </a>
-</p>
--->
 
 <p align="center">
   <strong>Enjoying my work or contributions? Feel free to show support 😊</strong>
