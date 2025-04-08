@@ -52,6 +52,7 @@
 -  Earned **7 contribution badges** across multiple projects.
 -->
  <br>
+ 
 ## 💻 Tech Stack
 - **Languages:** Java, HTML, CSS, JavaScript, Python
 - **Frontend:** React.js, Flask
