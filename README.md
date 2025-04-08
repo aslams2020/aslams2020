@@ -52,7 +52,12 @@
 ---
 
 ## 💻 Tech Stack
+- 💻 Languages: Java, HTML, CSS, JavaScript, Python
+- ⚛️ Frontend: React.js, Flask
+- 🛠️ Tools: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
+- 📦 Project Management: GitHub Projects, Issues, PRs, and Discussions
 
+<!--
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -64,6 +69,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
 </p>
+-->
 
 ---
 
