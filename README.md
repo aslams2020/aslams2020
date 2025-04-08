@@ -65,7 +65,19 @@
 </p>
 -->
 
----
+## 📊 GitHub Stats
+
+<table align="center">
+<tr>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=aslams2020&show_icons=true&theme=radical" width="420em"/>
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=radical" width="440em"/>
+  </td>
+</tr>
+</table>
+
 
 ## 📬 Connect with Me
 
@@ -83,6 +95,7 @@
 [![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
 --> 
 
+<!--
 ### ☀️ GSSoC '24 Badges
 <p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
@@ -95,21 +108,7 @@
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
   </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<table align="center">
-<tr>
-  <td>
-    <img src="https://github-readme-stats.vercel.app/api?username=aslams2020&show_icons=true&theme=radical" width="420em"/>
-  </td>
-  <td>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=radical" width="440em"/>
-  </td>
-</tr>
-</table>
+-->
 
 ---
 
