@@ -51,17 +51,14 @@
 -  Raised **200+ issues** and merged **110+ pull requests**.
 -  Earned **7 contribution badges** across multiple projects.
 -->
-
- <br> <br>
-
+ <br>
 ## 💻 Tech Stack
 - **Languages:** Java, HTML, CSS, JavaScript, Python
 - **Frontend:** React.js, Flask
 - **Tools**: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
 - **Project Management**: GitHub Projects, Issues, PRs, and Discussions
 
----
-
+ <br>
 <details>
 <summary> 🏆 Badges & Achievements</summary>
 
