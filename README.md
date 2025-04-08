@@ -24,9 +24,9 @@
 
 ---
 
-## 🌟 Open Source Journey
+## 📖⚡ Open Source Journey
 
-### 🔧 Core Team Member – GSSoC Extended '24
+### ☀️ Core Team Member – GSSoC Extended '24
 - 🗓️ *Sept '24 – Nov '24*
 - Served as a **Web Developer** and led a group of contributors.
 - Maintained GitHub repos: assigned issues, reviewed PRs, performed code reviews.
@@ -62,6 +62,7 @@
 -->
 
 ---
+
 ## 📬 Connect with Me
 
 <p align="left">
@@ -69,6 +70,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
   </a>
 </p>
+
 --- 
 
 ## 🏆 Badges & Achievements
@@ -76,7 +78,7 @@
 ### 🐙 Holopin Badges – Hacktoberfest '24
 [![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
 
-### 🌸 GSSoC '24 Badges
+### ☀️ GSSoC '24 Badges
 <p align="center">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
