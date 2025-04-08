@@ -19,7 +19,7 @@
 ### 😄 About Me
 - 🚀 I'm a **Java & Web Developer**, passionate about turning ideas into reality through code.
 - ⚡ Strong believer in **learning by doing** - whether it's contributing to open source or building cool side projects.
-- 👨‍💻 Currently sharpening my skills in **DSA**, **React.js**, and full-stack development.
+<!-- - 👨‍💻 Currently sharpening my skills in **DSA**, **React.js**, and full-stack development. -->
 - 📬 Reach me at: **sayyadaslam2020@gmail.com**
 
 ---
