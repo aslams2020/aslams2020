@@ -57,10 +57,10 @@
  <br> <br>
 
 ## 💻 Tech Stack
-- 💻 **Languages:** Java, HTML, CSS, JavaScript, Python
-- ⚛️**Frontend:** React.js, Flask
-- 🛠️ **Tools**: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
-- 📦 **Project Management**: GitHub Projects, Issues, PRs, and Discussions
+- **Languages:** Java, HTML, CSS, JavaScript, Python
+- **Frontend:** React.js, Flask
+- **Tools**: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
+- **Project Management**: GitHub Projects, Issues, PRs, and Discussions
 
 ---
 
