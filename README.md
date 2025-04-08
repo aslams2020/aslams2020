@@ -29,14 +29,15 @@
 
 ### ⚡Open Source Journey
 
-| 🏆 Role | 📅 Duration | Key Contributions | Highlights |
-|--------|--------------|-----------------------|----------------|
-| **Web Dev (Core)** – GSSoC Extended | Sept '24 – Nov '24 | - Led contributors <br> - Reviewed & merged PRs <br> - Managed GitHub issues | 🥇 Top 10 Project Admins <br> 📝 Letter of Recommendation |
-| **Contributor** – GSSoC'24 | May '24 – Aug '24 | - Raised 200+ issues <br> - Merged 110+ PRs <br> - Added features & fixes | 🥈 Rank: 12 / 2400+ <br> 🏅 Earned 7 badges |
+| 🏆 Role | Contributions | Highlights |
+|--------|-----------------------|----------------|
+| **Web Dev (Core)** <br> **@GSSoC Extended** | - Led contributors <br> - Reviewed & merged PRs <br> - Managed GitHub issues | 🥇 Top 10 Project Admins <br> 📝 Letter of Recommendation |
+| **Contributor**  <br> **@GSSoC'24** | - Raised 200+ issues <br> - Merged 110+ PRs <br> - Added features & fixes | 🥈 Rank: 12 / 2400+ <br> 🏅 Earned 7 badges |
 
 <!--
 ## ⚡ Open Source Journey
-
+(Sept-Nov 2024) 
+(May-Aug 2024)
 ### ☀️ Core Team Member – GSSoC Extended '24
 - 🗓️ *Sept '24 – Nov '24*
 - Served as a **Web Developer** and led a group of contributors.
