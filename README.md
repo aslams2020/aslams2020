@@ -6,12 +6,11 @@
 </p>
 
 
-<h1 align="center">
-  Hey! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> 🍁
-</h1>
-
-
 ![Aslam  (17)](https://github.com/user-attachments/assets/53b8b255-c8cf-4d0c-88a3-372e2da146e5)
+
+<h1 align="center">
+  Hey! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> ✌️
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
