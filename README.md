@@ -1,99 +1,122 @@
-<h1 align="center"> Hello! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad </a> <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="45">  
-<!-- <h3 align="center">I am a passionate Java And Web developer <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30" height="20"> -->
-</h3>
+<h1 align="center">
+  Hey there! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> 👋
+</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Open+Source+Contributor;Learning+by+Building;Let's+Build+Something+Awesome!&center=true&width=500&height=25">
 </p>
 
- 
-<!-- <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="300"> -->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"> 
- 
-[![GitHub followers](https://img.shields.io/github/followers/aslams2020?label=Follow&style=social)](https://github.com/aslams2020)
-![Profile Views](https://komarev.com/ghpvc/?username=aslams2020&color=blue)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
-### 👨‍💻 About Me
-- ✨ Always excited to **collaborate on real-world projects** and learn from the community.
-- 🚀 Actively contributing to open-source programs.
-- 📫 How to reach me **sayyadaslam2020@gmail.com**
- 
-### 🚀 Open Source Journey
+<p align="left">
+  <a href="https://github.com/aslams2020">
+    <img src="https://img.shields.io/github/followers/aslams2020?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aslams2020&color=blue" alt="Profile Views"/>
+</p>
 
-- ☀️ **Web Developer (Core Team Member) – GirlScript Summer of Code Extended 2024 (GSSoC)**
-  -  🗓️September'24-November'24
-  - **Top 10 Project Admins 🎖️**
-  - Lead a group of contributors.
-  - Managed GitHub repository, including **assigning issues, reviewing and merging pull requests** and doing **code reviews**.
-  - 📝 Awarded a **Letter of Recommendation** by GirlScript Foundation
-  
-- 🎖️**Contributor – GirlScript Summer of Code (GSSoC)**
-  - 🗓️May'24 to August'24
-  - **Ranked 12 Out of 2400+ Active Contributors** And **27000+** Overall Contributors.
-  - Raised Over **200+ issues** and Successfully **Merged over 110+ PRs** by implementing new features and functionalities.
-  - Earned 7 Badges For My Contributions to various projects.
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="https://linkedin.com/in/aslamsayyad02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aslamsayyad02" height="30" width="40" /></a>
-<!-- <a href="https://www.hackerrank.com/sayyadaslam2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayyadaslam2020" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aslams2020" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aslams2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aslams2020" height="30" width="40" /></a> -->
-<!-- </p>-->
-  
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 😄 About Me
+- 🚀 I'm a **Java & Web Developer**, passionate about turning ideas into reality through code.
+- ⚡ Strong believer in **learning by doing** - whether it's contributing to open source or building cool side projects.
+- 👨‍💻 Currently sharpening my skills in **DSA**, **React.js**, and full-stack development.
+- 📬 Reach me at: **sayyadaslam2020@gmail.com**
 
-<br> <br>
- 
-## Holophin Badges - Hactoberfest 2024 
-[![An image of @aslams2020's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
+---
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /></a>
-</div>
-<br> <br>
+## 🌟 Open Source Journey
 
-<table width="100%" align="center">
+### 🔧 Core Team Member – GSSoC Extended '24
+- 🗓️ *Sept '24 – Nov '24*
+- 👨‍💻 Served as a **Web Developer** and led a group of contributors.
+- 🛠️ Maintained GitHub repos: assigned issues, reviewed PRs, performed code reviews.
+- 🏅 Awarded **Letter of Recommendation** by GirlScript Foundation.
+- 🏆 Recognized as **Top 10 Project Admins**.
+
+### 🥇 Contributor – GirlScript Summer of Code (GSSoC) '24
+- 🗓️ *May '24 – Aug '24*
+- 🚀 Ranked **12th among 2400+ active contributors**.
+- 🔧 Raised **200+ issues** and merged **110+ pull requests**.
+- 🏅 Earned **7 contribution badges** across multiple projects.
+
+---
+
+## 📬 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/aslamsayyad02" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+</p>
+
+---
+
+## 🏆 Badges & Achievements
+
+### 🐙 Holopin Badges – Hacktoberfest '24
+[![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
+
+### 🌸 GSSoC '24 Badges
+<p align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table align="center">
 <tr>
-<td>
-  <img width="420m" src="https://github-readme-stats.vercel.app/api?username=aslams2020&&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="440em" src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=radical" alt="Streak Stats"/>
-</td>
+  <td>
+    <img src="https://github-readme-stats.vercel.app/api?username=aslams2020&show_icons=true&theme=radical" width="420em"/>
+  </td>
+  <td>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aslams2020&theme=radical" width="440em"/>
+  </td>
 </tr>
 </table>
 
-<br>
-<br>
-
-
+---
 
 <p align="center">
-  <b>Hey there! Thanks for stopping by my profile. <br> If you’ve found my work helpful or inspiring, why not treat me to a coffee or tea? ❤️🍵</b>
+  <strong>Enjoying my work or contributions? Feel free to show support 😊</strong>
 </p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/aslams2020" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" width="150" alt="Buy Me A Coffee"/>
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <b>Thank You For the Visit!🌟<b>
+  <strong>Thanks for visiting! Have an amazing day 🚀</strong>
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
