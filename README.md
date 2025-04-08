@@ -12,11 +12,11 @@
 [![GitHub followers](https://img.shields.io/github/followers/aslams2020?label=Follow&style=social)](https://github.com/aslams2020)
 ![Profile Views](https://komarev.com/ghpvc/?username=aslams2020&color=blue)
 
-- I’m currently learning **Java, Data Structure and Algorithms and Frontend Development.** 
-- 💬 Ask me about **Java and Data Structures.**
+### 👨‍💻 About Me
+- ✨ Always excited to **collaborate on real-world projects** and learn from the community.
+- 🚀 Actively contributing to open-source programs.
 - 📫 How to reach me **sayyadaslam2020@gmail.com**
-- ⚡ **Would love to explore new things.**
-
+ 
 ### 🚀 Open Source Journey
 
 - ☀️ **Web Developer (Core Team Member) – GirlScript Summer of Code Extended 2024 (GSSoC) 🗓️September'24-November'24**
