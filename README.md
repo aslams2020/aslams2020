@@ -1,3 +1,5 @@
+![Aslam  (17)](https://github.com/user-attachments/assets/53b8b255-c8cf-4d0c-88a3-372e2da146e5)
+
 <h1 align="center">
   Hey there! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> 👋
 </h1>
@@ -74,9 +76,10 @@
 --- 
 
 ## 🏆 Badges & Achievements
-
+<!--
 ### 🐙 Holopin Badges – Hacktoberfest '24
 [![Holopin Badges](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
+--> 
 
 ### ☀️ GSSoC '24 Badges
 <p align="center">
