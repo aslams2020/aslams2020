@@ -30,12 +30,12 @@
 - 🗓️ *Sept '24 – Nov '24*
 - Served as a **Web Developer** and led a group of contributors.
 - Maintained GitHub repos: assigned issues, reviewed PRs, performed code reviews.
-- 🏅 Awarded **Letter of Recommendation** by GirlScript Foundation.
-- 🏆 Recognized as **Top 10 Project Admins**.
+-  Awarded **Letter of Recommendation** by GirlScript Foundation🏅
+-  Recognized as **Top 10 Project Admins**🏆
 
 ### 🥇 Contributor – GirlScript Summer of Code (GSSoC) '24
 - 🗓️ *May '24 – Aug '24*
-- 🏅Ranked **12th among 2400+ active contributors**.
+- Ranked **12th among 2400+ active contributors🏅**.
 -  Raised **200+ issues** and merged **110+ pull requests**.
 -  Earned **7 contribution badges** across multiple projects.
 
