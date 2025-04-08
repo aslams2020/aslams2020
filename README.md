@@ -1,3 +1,10 @@
+<p align="left">
+  <a href="https://github.com/aslams2020">
+    <img src="https://img.shields.io/github/followers/aslams2020?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aslams2020&color=blue" alt="Profile Views"/>
+</p>
+
 ![Aslam  (17)](https://github.com/user-attachments/assets/53b8b255-c8cf-4d0c-88a3-372e2da146e5)
 
 <h1 align="center">
@@ -10,12 +17,6 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350"/>
 
-<p align="left">
-  <a href="https://github.com/aslams2020">
-    <img src="https://img.shields.io/github/followers/aslams2020?label=Follow&style=social" alt="GitHub Followers"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aslams2020&color=blue" alt="Profile Views"/>
-</p>
 
 
 ### 😄 About Me
