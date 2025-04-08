@@ -7,7 +7,7 @@
 
 
 <h1 align="center">
-  Hey there! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> 👋
+  Hey! I'm <a href="https://www.linkedin.com/in/aslamsayyad02/">Aslam Sayyad</a> 🍁
 </h1>
 
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📖⚡ Open Source Journey
+## ⚡ Open Source Journey
 
 ### ☀️ Core Team Member – GSSoC Extended '24
 - 🗓️ *Sept '24 – Nov '24*
@@ -47,10 +47,10 @@
 ---
 
 ## 💻 Tech Stack
-- 💻 Languages: Java, HTML, CSS, JavaScript, Python
-- ⚛️ Frontend: React.js, Flask
-- 🛠️ Tools: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
-- 📦 Project Management: GitHub Projects, Issues, PRs, and Discussions
+- 💻 **Languages:** Java, HTML, CSS, JavaScript, Python
+- ⚛️**Frontend:** React.js, Flask
+- 🛠️ **Tools**: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
+- 📦 **Project Management**: GitHub Projects, Issues, PRs, and Discussions
 
 <!--
 <p align="left">
