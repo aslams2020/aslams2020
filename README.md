@@ -19,17 +19,18 @@
  
 ### 🚀 Open Source Journey
 
-- ☀️ **Web Developer (Core Team Member) – GirlScript Summer of Code Extended 2024 (GSSoC) 🗓️September'24-November'24**
+- ☀️ **Web Developer (Core Team Member) – GirlScript Summer of Code Extended 2024 (GSSoC)**
+  -  🗓️September'24-November'24
   - **Top 10 Project Admins 🎖️**
   - Lead a group of contributors.
   - Managed GitHub repository, including **assigning issues, reviewing and merging pull requests** and doing **code reviews**.
   - 📝 Awarded a **Letter of Recommendation** by GirlScript Foundation
   
-- 🎖️**Contributor – GirlScript Summer of Code (GSSoC) 🗓️May'24 to August'24**
+- 🎖️**Contributor – GirlScript Summer of Code (GSSoC)**
+  - 🗓️May'24 to August'24
   - **Ranked 12 Out of 2400+ Active Contributors** And **27000+** Overall Contributors.
   - Raised Over **200+ issues** and Successfully **Merged over 110+ PRs** by implementing new features and functionalities.
   - Earned 7 Badges For My Contributions to various projects.
-  - Collaborated closely with project mentors and fellow contributors.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
