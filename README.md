@@ -27,32 +27,6 @@
 <!-- - 👨‍💻 Currently sharpening my skills in **DSA**, **React.js**, and full-stack development. -->
 - 📬 Reach me at: **sayyadaslam2020@gmail.com**
 
-
-<details>
-<summary> 🏆 Badges & Achievements</summary>
-
-#### Holopin Badges – Hacktoberfest 2024  
-[![Holopin](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
-
-<details>
-<summary>☀️ GSSOC(24) Badges</summary>  
-<div align="center">
-  <p align="center">
-  <a href="https://gssoc.girlscript.tech/leaderboard">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
-  </a>
-</p>
-</div>
-  </details>
-</details>
-
-
 ### ⚡Open Source Journey
 
 | 🏆 Role | 📅 Duration | Key Contributions | Highlights |
@@ -79,11 +53,38 @@
 ---
 
 
+
 ## 💻 Tech Stack
 - 💻 **Languages:** Java, HTML, CSS, JavaScript, Python
 - ⚛️**Frontend:** React.js, Flask
 - 🛠️ **Tools**: Git, GitHub, VS Code, Firebase (Authentication), MongoDB, MySQL
 - 📦 **Project Management**: GitHub Projects, Issues, PRs, and Discussions
+
+---
+
+<details>
+<summary> 🏆 Badges & Achievements</summary>
+
+#### Holopin Badges – Hacktoberfest 2024  
+[![Holopin](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
+
+<details>
+<summary>☀️ GSSOC(24) Badges</summary>  
+<div align="center">
+  <p align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px"/>
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="80px"/>
+  </a>
+</p>
+</div>
+  </details>
+</details>
 
 <!--
 <p align="left">
