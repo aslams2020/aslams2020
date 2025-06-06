@@ -56,13 +56,13 @@
 ## 💻 Tech Stack
 - **Languages:** Java, JavaScript, Python, SQL
 - **Frontend:** React.js, Flask, HTML, CSS
-- **Backend:** Spring Boot, JDBC
-- **Tools**: Git, GitHub,  Eclipse, VS Code, Firebase (Authentication), MongoDB, MySQL, Maven
-- **Project Management**: GitHub Projects, Issues, PRs, and Discussions
+- **Backend:** Spring Boot, JDBC, Spring Framework
+- **Tools**: Git, GitHub,  Eclipse, Firebase (Authentication), MongoDB, MySQL, Maven
+- **Project Management**: GitHub Projects, Issues, PRs, and Discussions.
 
  <br>
 <details>
-<summary> 🏆 Badges & Achievements</summary>
+<summary> 🏆 Badges & Achievements (click here) </summary>
 
 #### Holopin Badges – Hacktoberfest 2024  
 [![Holopin](https://holopin.me/aslams2020)](https://holopin.io/@aslams2020)
