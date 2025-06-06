@@ -54,7 +54,7 @@
  <br>
  
 ## 💻 Tech Stack
-- **Languages:** Java, JavaScript, Python, SQL
+- **Languages:** Java, JavaScript, C, Python, SQL
 - **Frontend:** React.js, Flask, HTML, CSS
 - **Backend:** Spring Boot, JDBC, Spring Framework
 - **Tools**: Git, GitHub,  Eclipse, Firebase (Authentication), MongoDB, MySQL, Maven
